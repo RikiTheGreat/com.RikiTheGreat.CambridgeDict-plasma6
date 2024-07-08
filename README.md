@@ -7,7 +7,7 @@ clone the repository
     git clone https://github.com/RikiTheGreat/com.RikiTheGreat.CambridgeDict-plasma6.git
 ```
 
-the move the folder to
+then move the folder to
 
 ```
     ~/.local/share/plasma/plasmoids/
