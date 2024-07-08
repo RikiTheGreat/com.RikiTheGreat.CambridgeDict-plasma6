@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "RikiTheGreat"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Add Cambridge dictionary on your desktop.",
+        "Icon": "applications-internet",
+        "Id": "com.RikiTheGreat.CambridgeDict-plasma6",
+        "License": "GPL-2.0+",
+        "Name": "Cambridge Dictionary",
+        "Website": "https://github.com/RikiTheGreat/com.RikiTheGreat.CambridgeDict-plasma6.git",
+        "github": "https://github.com/RikiTheGreat/"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
