@@ -12,3 +12,5 @@ the move the folder to
 ```
     ~/.local/share/plasma/plasmoids/
 ```
+
+![alt text](./image.png)
