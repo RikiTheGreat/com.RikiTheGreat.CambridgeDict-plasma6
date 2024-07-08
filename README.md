@@ -1,6 +1,6 @@
 #  Cambridge dictionary widget for plasma 6
 
-## How to run
+## How to use
 
 clone the repository
 ```
